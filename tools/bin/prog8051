@@ -59,7 +59,7 @@ program = program.replace('\r', '')
 
 print "Sending code..."
 
-write("D")
+write("DD")
 time.sleep(.5)
 write(program)
 time.sleep(.5)
